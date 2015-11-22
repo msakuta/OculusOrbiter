@@ -1,0 +1,55 @@
+The Moon's Surface textures
+---------------------------
+
+Moon surface texture (Edited by author)
+http://wms.lroc.asu.edu/lroc/view_rdr_product/WAC_GLOBAL_E000N1800_004P
+
+Lunar Reconnaissance Orbiter Camera Narrow Angle Camera (LROC NAC): NASA / GSFC / ASU
+Lunar Reconnaissance Orbiter Camera Wide Angle Camera (LROC WAC): NASA / GSFC / ASU
+
+Mercury Texture
+---------------
+
+"mercury.jpg" was obtained from:
+
+http://planetpixelemporium.com/mercury.html
+
+and renamed from "mercurymap.jpg"
+
+
+Venus Texture
+---------------
+
+"venuscyl4.jpg" was obtained from:
+
+http://planetpixelemporium.com/mercury.html
+
+and renamed from "venus.jpg"
+
+
+Mars Texture
+------------
+
+"mars.jpg" was obtained from:
+
+http://planetpixelemporium.com/mars.html
+
+and renamed from "mars_1k_color.jpg"
+
+
+Jupiter Texture
+------------
+
+"jupiter.jpg" was obtained from":
+
+http://planetpixelemporium.com/jupiter.html
+
+and renamed from "jupiter2_1k.jpg"
+
+
+Background Star Texture
+-----------------------
+
+"hipparcoscyl1.jpg" was obtained from:
+
+http://solarviews.com/cap/ds/hipparcoscyl1.htm
